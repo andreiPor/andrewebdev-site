@@ -4,7 +4,6 @@
 <p align="center">
   <img src="assets/img/home_awd.png" style="width:100%; max-width:1200px;" />
 </p>
----
 
 ### 💻 Technologies
 
@@ -14,12 +13,10 @@
 - jQuery  
 - FontAwesome  
 
----
 
 ### 🌐 Online
 
 [Enjoy my work online!](https://andreiPor.github.io/andrewebdev-portfolio/)
 
----
 
 > AndresWebDev © 2025
