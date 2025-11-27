@@ -1,6 +1,9 @@
 <!-- README.md -->
 
-<div align="center" style="background-image: url('/assets/img/home_awd.png'); background-size: contain; background-repeat: no-repeat; background-position: center; padding: 5rem 1rem;">
+<p align="center">
+  <img src="home_awd.png" style="width:100%; max-width:1200px;" />
+</p>
+
 
 <h1>AndresWebDev</h1>
 <p>Crafting Modern, Responsive & Interactive Web Experiences</p>
