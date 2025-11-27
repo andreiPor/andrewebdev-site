@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<div align="center" style="background-image: url('assets/img/home_awd.png'); background-size: contain; background-repeat: no-repeat; background-position: center; padding: 5rem 1rem;">
+<div align="center" style="background-image: url('./assets/img/home_awd.png'); background-size: contain; background-repeat: no-repeat; background-position: center; padding: 5rem 1rem;">
 
 <h1>AndresWebDev</h1>
 <p>Crafting Modern, Responsive & Interactive Web Experiences</p>
