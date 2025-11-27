@@ -16,7 +16,8 @@
 
 ### 🌐 Online
 
-[Enjoy my work online!]([https://andreiPor.github.io/andrewebdev-portfolio/](https://andreipor.github.io/andrewebdev-site/))
+[Enjoy my work online!](https://andreiPor.github.io/andrewebdev-portfolio/)
+
 
 
 > AndresWebDev © 2025
