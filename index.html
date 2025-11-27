@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AndresWebDev</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <link rel="icon" type="image/png" href="assets/favicon/awd_logo.png" />
+  </head>
+  <body>
+    <header>
+      <div class="container header-container">
+        <div class="logo">AndresWebDev</div>
+        <nav>
+          <ul class="nav-links">
+            <li>
+              <a href="#home"><i class="fas fa-home"></i> Home</a>
+            </li>
+            <li>
+              <a href="#about"><i class="fas fa-info-circle"></i> About Us</a>
+            </li>
+            <li>
+              <a href="#services"><i class="fas fa-cogs"></i> Our Services</a>
+            </li>
+            <li>
+              <a href="#contact"><i class="fas fa-envelope"></i> Contact</a>
+            </li>
+          </ul>
+          <div class="hamburger">
+            <i class="fas fa-bars"></i>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="home" class="section home-section">
+        <h1>Modern Web Solutions</h1>
+        <img
+          src="assets/img/home_awd.png"
+          alt="AndresWebDev main image"
+          class="home-image"
+        />
+      </section>
+
+      <section id="about" class="section about-section">
+        <h2><i class="fas fa-info-circle"></i> About Us</h2>
+        <p>
+          <b>AndresWebDev</b> is your dedicated partner in digital
+          transformation. We specialize in crafting high-performance, scalable
+          web solutions and applications that are meticulously aligned with your
+          strategic business objectives. We blend cutting-edge technology with
+          thoughtful design to deliver measurable digital growth.
+        </p>
+      </section>
+      <section id="services" class="section services-section">
+        <h2><i class="fas fa-cogs"></i> Our Services</h2>
+        <div class="cards-container">
+          <div class="card">
+            <i class="fas fa-code fa-2x"></i>
+            <h3>Web Page Creation</h3>
+            <p>
+              Building responsive, interactive websites with modern front-end
+              technologies like HTML, CSS, JavaScript, and React.
+            </p>
+          </div>
+          <div class="card">
+            <i class="fas fa-tools fa-2x"></i>
+            <h3>Web & App Maintenance</h3>
+            <p>
+              Keeping your websites and applications updated, optimized, and
+              bug-free for continuous smooth operation.
+            </p>
+          </div>
+          <div class="card">
+            <i class="fas fa-paint-brush fa-2x"></i>
+            <h3>UI/UX Design</h3>
+            <p>
+              Designing user-friendly, modern interfaces that improve engagement
+              and provide the best experience for your users.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact-section">
+        <h2>Contact Us</h2>
+        <form id="contact-form" autocomplete="off">
+          <input type="text" name="name" placeholder="Your Name" required />
+          <input type="email" name="email" placeholder="Your Email" required />
+          <textarea
+            name="message"
+            placeholder="Your Message"
+            required
+          ></textarea>
+          <button type="submit">Send</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 AndresWebDev. All rights reserved.</p>
+      <div class="social-icons">
+        <a href="https://github.com/"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i></a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
